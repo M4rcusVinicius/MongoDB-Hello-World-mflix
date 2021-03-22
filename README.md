@@ -1,6 +1,6 @@
 ## My first database ( using MongoDB )
 
-This app get movies data in MongoDB and use Next js to display. I'm folwing the tutorial [How to Integrate MongoDB Into Your Next.js App](https://developer.mongodb.com/how-to/nextjs-with-mongodb/). If you're interesing to start a db, I recomended this tutorial !
+This app get movies data in MongoDB and use Next js to display. I'm following the tutorial [How to Integrate MongoDB Into Your Next.js App](https://developer.mongodb.com/how-to/nextjs-with-mongodb/). If you're interesing to start a db, I recomended this tutorial !
 
 If you want to learn more about MongoDB, visit the following pages:
 
